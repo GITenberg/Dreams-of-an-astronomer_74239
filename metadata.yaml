@@ -1,0 +1,49 @@
+_repo: Dreams-of-an-astronomer_74239
+_version: 0.0.1
+alternative_title: Rêves étoilés. English
+contributor:
+  translator:
+    agent_name: Fournier d'Albe, E. E. (Edmund Edward)
+    aliases:
+    - Albe, E. E. Fournier d' (Edmund Edward Fournier)
+    - D'Albe, E. E. Fournier (Edmund Edward Fournier)
+    - D'Albe, Edmund Edward Fournier
+    - d'Albe, Edmund Edward Fournier
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '56978'
+    url: http://www.gutenberg.org/2009/agents/56978
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Edward_Fournier_d%27Albe
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: https://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74239'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001987971
+pgterms:marc905: 20240712022522flammarion
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aNew York :$bD. Appleton, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+- GITenberg
+title: Dreams of an astronomer
+url: http://www.gutenberg.org/ebooks/74239
